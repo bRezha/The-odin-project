@@ -1,3 +1,4 @@
 # html-basic
-This repo is my Journey to learn Basic html
-practice make perfect
+This repo is my Journey to learn html,css,js Basic from The Odin Project curiculum.
+practice make perfect.
+I'll make it.. !
