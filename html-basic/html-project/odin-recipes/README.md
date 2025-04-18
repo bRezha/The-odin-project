@@ -13,7 +13,7 @@
 
 ## HTML Recipe Page Project
 
-This project is part of the HTML Foundations curriculum from The Odin Project. The goal is to implement basic HTML knowledge by building a simple recipe page.
+This project is part of the HTML Foundations curriculum from [The Odin Project](https://www.theodinproject.com/). The goal is to implement basic HTML knowledge by building a simple recipe page.
 
 ### 📚 Implemented Concepts
 
