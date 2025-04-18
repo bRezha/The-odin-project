@@ -1,12 +1,21 @@
 # 🍳 HTML Recipe Page Project
 
-> This project is part of the **HTML Foundations** curriculum from [The Odin Project](https://www.theodinproject.com/). The goal is to implement basic HTML knowledge by building a simple recipe page.
+🌐 🇬🇧[English Version](#html-recipe-page-project) | 🇮🇩 [Versi Bahasa Indonesia](#proyek-halaman-resep-html)
 
-**🇬🇧 English | [🇮🇩 Bahasa Indonesia](#versi-bahasa-indonesia)**
+## 📚 Table of Contents
 
----
+- [Implemented Concepts](#implemented-concepts)
+- [Lessons Learned](#lessons-learned)
+- [Tools Used](#tools-used)
+- [Personal Notes](#personal-notes)
+- [Repository](#repository)
+- [Acknowledgments](#acknowledgments)
 
-## 📚 Implemented Concepts
+## HTML Recipe Page Project
+
+This project is part of the HTML Foundations curriculum from The Odin Project. The goal is to implement basic HTML knowledge by building a simple recipe page.
+
+### 📚 Implemented Concepts
 
 - ✅ **Text Editors**  
   Utilizing Visual Studio Code as the primary text editor.
@@ -30,15 +39,13 @@
   - 📝 Working with Text (paragraphs, headings, emphasis)
   - 🔢 Lists (ordered & unordered)
   - 🔗 Links (absolute & relative)
-  - 🖼️ Images and `alt` attributes
+  - 🖼️ Images and alt attributes
 
 - ✏️ **Commit Messages**  
   Crafting clear, consistent, and meaningful commit messages following best practices:  
-  [Seven rules of a great Git commit message](https://cbea.ms/git-commit/)
+  🔗 [The seven rules of a great commit message](https://cbea.ms/git-commit/)
 
----
-
-## 🧠 Lessons Learned
+### 🧠 Lessons Learned
 
 - 🔍 Organizing project directory structure neatly and systematically.
 - 📎 Understanding the difference between relative and absolute links and their usage.
@@ -46,110 +53,101 @@
 - 🧑‍🦯 Using `alt` attributes in `<img>` tags for accessibility.
 - 📌 Significance of documentation and version control.
 
----
+### 🛠️ Tools Used
 
-## 🛠️ Tools Used
+- Visual Studio Code (Text Editor)
+- Git (Version Control)
+- GitHub (Remote Repository)
+- Terminal / Bash (Command Line Interface)
 
-- Visual Studio Code (Text Editor)  
-- Git (Version Control)  
-- GitHub (Remote Repository)  
-- Terminal / Bash (Command Line Interface)  
-
----
-
-## 📌 Personal Notes
+### 📌 Personal Notes
 
 This is the initial step in my journey to become a Web Developer. I will continue to develop this project as I progress through The Odin Project curriculum, including adding CSS and JavaScript in the future.  
 This documentation is also part of my learning process to think and work like a professional developer.
 
----
+### 🔗 Repository
 
-## 🔗 Repository
+🔗 [GitHub Repository Link](https://github.com/bRezha/The-odin-project/tree/main/html-basic/html-project/odin-recipes)
 
-[🔗 GitHub Repository Link](#)(https://github.com/bRezha/odin-recipes)
-
----
-
-## ✨ Acknowledgments
+### ✨ Acknowledgments
 
 Thanks to The Odin Project team for their outstanding open-source curriculum.  
 I'm excited to keep learning and growing!
 
 ---
 
-# 🇮🇩 Versi Bahasa Indonesia
+# Proyek Halaman Resep HTML
 
-> Proyek ini adalah bagian dari kurikulum **HTML Foundations** dari [The Odin Project](https://www.theodinproject.com/). Tujuannya adalah untuk mengimplementasikan dasar-dasar HTML dengan membuat halaman resep sederhana.
+🌐 🇬🇧[Versi Bahasa Inggris](#html-recipe-page-project) | 🇮🇩 [Bahasa Indonesia](#proyek-halaman-resep-html)
 
-**[🇬🇧 English Version](#html-recipe-page-project) | 🇮🇩 Bahasa Indonesia**
+## 📚 Daftar Isi
 
----
+- [Konsep yang Diimplementasikan](#konsep-yang-diimplementasikan)
+- [Pelajaran yang Didapat](#pelajaran-yang-didapat)
+- [Alat yang Digunakan](#alat-yang-digunakan)
+- [Catatan Pribadi](#catatan-pribadi)
+- [Repositori](#repositori)
+- [Ucapan Terima Kasih](#ucapan-terima-kasih)
 
-## 📚 Konsep yang Telah Dipelajari
+## Proyek Halaman Resep HTML
+
+Proyek ini adalah bagian dari kurikulum HTML Foundations dari The Odin Project. Tujuannya adalah untuk mengimplementasikan pengetahuan dasar HTML dengan membuat halaman resep sederhana.
+
+### 📚 Konsep yang Diimplementasikan
 
 - ✅ **Text Editors**  
   Menggunakan Visual Studio Code sebagai editor teks utama.
 
-- ✅ **Dasar Command Line**  
-  Menavigasi dan mengelola file secara efisien melalui Terminal (CLI).
+- ✅ **Command Line Basics**  
+  Menavigasi dan mengelola file melalui Terminal (CLI).
 
-- ✅ **Setup Git**  
-  Menginisialisasi repository lokal dan mengkonfigurasi Git (`user.name`, `user.email`).
+- ✅ **Setting up Git**  
+  Menginisialisasi repositori lokal dan mengonfigurasi Git (`user.name`, `user.email`).
 
-- ✅ **Dasar Git**  
-  Menjalankan `git init`, `add`, `commit`, dan mendorong perubahan ke GitHub.
+- ✅ **Git Basics**  
+  Menjalankan perintah `git init`, `add`, `commit`, dan mendorong ke GitHub.
 
 - ✅ **Pengenalan GitHub**  
-  Membuat repository GitHub dan menghubungkannya dengan repo lokal.
+  Membuat repositori GitHub dan menghubungkannya dengan repositori lokal.
 
 - ✅ **Dasar-Dasar HTML**  
   Menulis dan menyusun struktur HTML:
   - 📄 HTML Boilerplate
   - ✍️ Elemen dan Tag
-  - 📝 Menulis Teks (paragraf, heading, penekanan)
-  - 🔢 List (terurut & tidak terurut)
+  - 📝 Bekerja dengan Teks (paragraf, heading, penekanan)
+  - 🔢 Daftar (berurutan & tidak berurutan)
   - 🔗 Tautan (absolut & relatif)
   - 🖼️ Gambar dan atribut `alt`
 
 - ✏️ **Pesan Commit**  
-  Membuat pesan commit yang jelas, konsisten, dan bermakna sesuai praktik terbaik:  
-  [Tujuh aturan membuat pesan commit yang baik](https://cbea.ms/git-commit/)
+  Membuat pesan commit yang jelas, konsisten, dan bermakna dengan mengikuti praktik terbaik:  
+  🔗 [Tujuh aturan menulis pesan commit yang baik](https://cbea.ms/git-commit/)
 
----
+### 🧠 Pelajaran yang Didapat
 
-## 🧠 Hal yang Dipelajari
-
-- 🔍 Menyusun struktur direktori proyek dengan rapi dan sistematis.
-- 📎 Memahami perbedaan tautan relatif dan absolut serta penggunaannya.
-- 🌐 Pentingnya `target="_blank"` dan `rel="noopener noreferrer"` untuk keamanan.
-- 🧑‍🦯 Penggunaan atribut `alt` pada `<img>` untuk aksesibilitas.
+- 🔍 Menyusun struktur direktori proyek secara rapi dan sistematis.
+- 📎 Memahami perbedaan antara tautan relatif dan absolut.
+- 🌐 Pentingnya atribut `target="_blank"` dan `rel="noopener noreferrer"` untuk keamanan.
+- 🧑‍🦯 Menggunakan atribut `alt` pada tag `<img>` untuk aksesibilitas.
 - 📌 Pentingnya dokumentasi dan kontrol versi.
 
----
+### 🛠️ Alat yang Digunakan
 
-## 🛠️ Tools yang Digunakan
+- Visual Studio Code (Editor Teks)
+- Git (Kontrol Versi)
+- GitHub (Repositori Jarak Jauh)
+- Terminal / Bash (Antarmuka Baris Perintah)
 
-- Visual Studio Code (Editor Teks)  
-- Git (Kontrol Versi)  
-- GitHub (Repositori Jarak Jauh)  
-- Terminal / Bash (Antarmuka Baris Perintah)  
+### 📌 Catatan Pribadi
 
----
+Ini adalah langkah awal dalam perjalanan saya untuk menjadi Web Developer. Saya akan terus mengembangkan proyek ini seiring kemajuan dalam kurikulum The Odin Project, termasuk menambahkan CSS dan JavaScript.  
+Dokumentasi ini juga merupakan bagian dari proses belajar saya untuk berpikir dan bekerja seperti seorang developer profesional.
 
-## 📌 Catatan Pribadi
+### 🔗 Repositori
 
-Ini adalah langkah awal dalam perjalanan saya menjadi Web Developer. Saya akan terus mengembangkan proyek ini seiring saya belajar melalui kurikulum The Odin Project, termasuk menambahkan CSS dan JavaScript di masa depan.  
-Dokumentasi ini juga bagian dari proses belajar saya untuk berpikir dan bekerja seperti developer profesional.
+🔗 [Tautan Repositori GitHub](https://github.com/bRezha/The-odin-project/tree/main/html-basic/html-project/odin-recipes)
 
----
+### ✨ Ucapan Terima Kasih
 
-## 🔗 Repository
-
-[🔗 Tautan Repository GitHub](#)(https://github.com/bRezha/odin-recipes)
-
----
-
-## ✨ Ucapan Terima Kasih
-
-Terima kasih kepada tim The Odin Project atas kurikulum open-source mereka yang luar biasa.  
-Saya bersemangat untuk terus belajar dan berkembang!
+Terima kasih kepada tim The Odin Project atas kurikulum open-source yang luar biasa.  
+Saya sangat antusias untuk terus belajar dan berkembang!
