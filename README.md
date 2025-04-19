@@ -6,6 +6,8 @@
 
 # English Version
 
+## 📖 Table of Contents
+
 - [Project Description](#project-description)
 - [Repository Structure](#repository-structure)
 - [Learning Progress](#learning-progress)
