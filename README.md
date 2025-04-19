@@ -125,3 +125,4 @@ Saya percaya bahwa pemahaman yang kuat atas dasar-dasar Web Development akan mem
 ## Ucapan Terima Kasih
 
 Terima kasih kepada tim [The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations) atas kurikulum yang luar biasa.
+
