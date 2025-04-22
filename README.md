@@ -1,128 +1,153 @@
-# 🌐 HTML, CSS & JS Basic Projects – The Odin Project
+# 🍳 HTML Recipe Page Project
 
+🌐 🇬🇧[English Version](#html-recipe-page-project) | 🇮🇩 [Versi Bahasa Indonesia](#proyek-halaman-resep-html)
 
-📌 🇬🇧 [English Version](#english-version) | 🇮🇩 [Bahasa Indonesia](#bahasa-indonesia)
+## 📚 Table of Contents
 
-
-# English Version
-
-## 📖 Table of Contents
-
-- [Project Description](#project-description)
-- [Repository Structure](#repository-structure)
-- [Learning Progress](#learning-progress)
+- [Implemented Concepts](#implemented-concepts)
+- [Lessons Learned](#lessons-learned)
 - [Tools Used](#tools-used)
 - [Personal Notes](#personal-notes)
+- [Repository](#repository)
 - [Acknowledgments](#acknowledgments)
 
-## Project Description
+## HTML Recipe Page Project
 
-This repository documents my learning journey in **Web Development Fundamentals** (HTML, CSS, and JavaScript) through the open-source curriculum from [The Odin Project](https://www.theodinproject.com/).
-My main goal is to become a **Web3 Developer** with solid Web2 foundation.
+This project is part of the HTML Foundations curriculum from [The Odin Project](https://www.theodinproject.com/). The goal is to implement basic HTML knowledge by building a simple recipe page.
 
-Each subdirectory contains a project based on the course material and will grow as I progress through the modules.
+### 📚 Implemented Concepts
 
-## Repository Structure
-```
-The-odin-project/
-├── html-basic/         # HTML basics and recipe project
-├── css-basic/          # CSS basics (not started yet)
-├── js-basic/           # JavaScript basics (not started yet)
-└── README.md           # Main repository documentation
-```
+- ✅ **Text Editors**  
+  Utilizing Visual Studio Code as the primary text editor.
 
-## Learning Progress
+- ✅ **Command Line Basics**  
+  Navigating and managing files efficiently through the Terminal (CLI).
 
-- [x] HTML Basic – currently learning and building
-- [ ] CSS Basic – not started yet
-- [ ] JavaScript Basic – not started yet
+- ✅ **Setting up Git**  
+  Initializing a local repository and configuring Git (`user.name`, `user.email`).
 
-Currently working on the **HTML Recipe Project**.
+- ✅ **Git Basics**  
+  Executing `git init`, `add`, `commit`, and pushing to GitHub.
 
-## Tools Used
+- ✅ **Introduction to GitHub**  
+  Creating a GitHub repository and linking it with the local repo.
+
+- ✅ **HTML Foundations**  
+  Writing and structuring HTML:
+  - 📄 HTML Boilerplate
+  - ✍️ Elements and Tags
+  - 📝 Working with Text (paragraphs, headings, emphasis)
+  - 🔢 Lists (ordered & unordered)
+  - 🔗 Links (absolute & relative)
+  - 🖼️ Images and alt attributes
+
+- ✏️ **Commit Messages**  
+  Crafting clear, consistent, and meaningful commit messages following best practices:  
+  🔗 [The seven rules of a great commit message](https://cbea.ms/git-commit/)
+
+### 🧠 Lessons Learned
+
+- 🔍 Organizing project directory structure neatly and systematically.
+- 📎 Understanding the difference between relative and absolute links and their usage.
+- 🌐 Importance of `target="_blank"` and `rel="noopener noreferrer"` for security.
+- 🧑‍🦯 Using `alt` attributes in `<img>` tags for accessibility.
+- 📌 Significance of documentation and version control.
+
+### 🛠️ Tools Used
 
 - Visual Studio Code (Text Editor)
-- Git & GitHub (Version Control & Remote Repo)
-- Terminal / CLI (Command Line Interface)
-- The Odin Project Curriculum
+- Git (Version Control)
+- GitHub (Remote Repository)
+- Terminal / Bash (Command Line Interface)
 
-## Personal Notes
+### 📌 Personal Notes
 
-This is my first step in a long journey.
+This is the initial step in my journey to become a Web Developer. I will continue to develop this project as I progress through The Odin Project curriculum, including adding CSS and JavaScript in the future.  
+This documentation is also part of my learning process to think and work like a professional developer.
 
-I'm committed to learning and improving every day by being consistent, documenting the process, and sharing the knowledge to benefit others in the future.
+### 🔗 Repository
 
-I believe mastering Web Development fundamentals will help me enter the world of Web3 with confidence and professionalism.
+🔗 [GitHub Repository Link](https://github.com/bRezha/The-odin-project/tree/main/html-basic/html-project/odin-recipes)
 
-## Acknowledgments
+### ✨ Acknowledgments
 
-Thanks to [The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations) team for their amazing curriculum.
+Thanks to The Odin Project team for their outstanding open-source curriculum.  
+I'm excited to keep learning and growing!
 
+---
 
+# Proyek Halaman Resep HTML
 
+🌐 🇬🇧[Versi Bahasa Inggris](#html-recipe-page-project) | 🇮🇩 [Bahasa Indonesia](#proyek-halaman-resep-html)
 
- =====================================================================================
- 
- 
- 
- 📌 🇬🇧 [English Version](#english-version) | 🇮🇩 [Bahasa Indonesia](#bahasa-indonesia)
+## 📚 Daftar Isi
 
-
-# Bahasa Indonesia
-
-## 📖 Daftar Isi
-
-- [Deskripsi Proyek](#deskripsi-proyek)
-- [Struktur Repositori](#struktur-repositori)
-- [Status Pembelajaran](#status-pembelajaran)
+- [Konsep yang Diimplementasikan](#konsep-yang-diimplementasikan)
+- [Pelajaran yang Didapat](#pelajaran-yang-didapat)
 - [Alat yang Digunakan](#alat-yang-digunakan)
 - [Catatan Pribadi](#catatan-pribadi)
+- [Repositori](#repositori)
 - [Ucapan Terima Kasih](#ucapan-terima-kasih)
 
+## Proyek Halaman Resep HTML
 
-## Deskripsi Proyek
+Proyek ini adalah bagian dari kurikulum HTML Foundations dari The Odin Project. Tujuannya adalah untuk mengimplementasikan pengetahuan dasar HTML dengan membuat halaman resep sederhana.
 
-Repositori ini merupakan dokumentasi perjalanan saya mempelajari dasar-dasar **Web Development** (HTML, CSS, dan JavaScript) dari kurikulum open source [The Odin Project](https://www.theodinproject.com/).
+### 📚 Konsep yang Diimplementasikan
 
-Tujuan utama saya adalah menjadi seorang **Web3 Developer** yang memahami dengan baik fundamental dari Web2.
+- ✅ **Text Editors**  
+  Menggunakan Visual Studio Code sebagai editor teks utama.
 
-Proyek-proyek yang saya buat dalam repositori ini berasal dari setiap bagian kurikulum dan akan terus berkembang seiring saya menyelesaikan setiap modul pembelajaran.
+- ✅ **Command Line Basics**  
+  Menavigasi dan mengelola file melalui Terminal (CLI).
 
+- ✅ **Setting up Git**  
+  Menginisialisasi repositori lokal dan mengonfigurasi Git (`user.name`, `user.email`).
 
-## Struktur Repositori
-```
-The-odin-project/
-├── html-basic/   # Dasar-dasar HTML & proyek resep
-├── css-basic/    # Dasar-dasar CSS (belum dimulai)
-├── js-basic/     # Dasar-dasar JavaScript (belum dimulai)
-└── README.md     # Dokumentasi repositori utama
-```
+- ✅ **Git Basics**  
+  Menjalankan perintah `git init`, `add`, `commit`, dan mendorong ke GitHub.
 
-## Status Pembelajaran
+- ✅ **Pengenalan GitHub**  
+  Membuat repositori GitHub dan menghubungkannya dengan repositori lokal.
 
-- [x] HTML Basic – sedang dipelajari dan diterapkan
-- [ ] CSS Basic – belum dimulai
-- [ ] JavaScript Basic – belum dimulai
+- ✅ **Dasar-Dasar HTML**  
+  Menulis dan menyusun struktur HTML:
+  - 📄 HTML Boilerplate
+  - ✍️ Elemen dan Tag
+  - 📝 Bekerja dengan Teks (paragraf, heading, penekanan)
+  - 🔢 Daftar (berurutan & tidak berurutan)
+  - 🔗 Tautan (absolut & relatif)
+  - 🖼️ Gambar dan atribut `alt`
 
-📍 Saat ini saya sedang mengerjakan **Project Resep HTML Dasar**.
+- ✏️ **Pesan Commit**  
+  Membuat pesan commit yang jelas, konsisten, dan bermakna dengan mengikuti praktik terbaik:  
+  🔗 [Tujuh aturan menulis pesan commit yang baik](https://cbea.ms/git-commit/)
 
+### 🧠 Pelajaran yang Didapat
 
-## Alat yang Digunakan
+- 🔍 Menyusun struktur direktori proyek secara rapi dan sistematis.
+- 📎 Memahami perbedaan antara tautan relatif dan absolut.
+- 🌐 Pentingnya atribut `target="_blank"` dan `rel="noopener noreferrer"` untuk keamanan.
+- 🧑‍🦯 Menggunakan atribut `alt` pada tag `<img>` untuk aksesibilitas.
+- 📌 Pentingnya dokumentasi dan kontrol versi.
 
-- Visual Studio Code (Text Editor)
-- Git & GitHub (Version Control & Remote Repo)
-- Terminal / CLI (Command Line Interface)
-- The Odin Project Curriculum
+### 🛠️ Alat yang Digunakan
 
-## Catatan Pribadi
+- Visual Studio Code (Editor Teks)
+- Git (Kontrol Versi)
+- GitHub (Repositori Jarak Jauh)
+- Terminal / Bash (Antarmuka Baris Perintah)
 
-Ini adalah langkah awal dari perjalanan besar saya.
+### 📌 Catatan Pribadi
 
-Saya berkomitmen untuk terus belajar dan berkembang setiap hari dengan konsisten, mendokumentasikan proses belajar, dan membagikan pengetahuan ini agar dapat membantu orang lain di masa depan.
+Ini adalah langkah awal dalam perjalanan saya untuk menjadi Web Developer. Saya akan terus mengembangkan proyek ini seiring kemajuan dalam kurikulum The Odin Project, termasuk menambahkan CSS dan JavaScript.  
+Dokumentasi ini juga merupakan bagian dari proses belajar saya untuk berpikir dan bekerja seperti seorang developer profesional.
 
-Saya percaya bahwa pemahaman yang kuat atas dasar-dasar Web Development akan membantu saya melangkah ke dunia Web3 secara matang dan profesional.
+### 🔗 Repositori
 
-## Ucapan Terima Kasih
+🔗 [Tautan Repositori GitHub](https://github.com/bRezha/The-odin-project/tree/main/html-basic/html-project/odin-recipes)
 
-Terima kasih kepada tim [The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations) atas kurikulum yang luar biasa.
+### ✨ Ucapan Terima Kasih
 
+Terima kasih kepada tim The Odin Project atas kurikulum open-source yang luar biasa.  
+Saya sangat antusias untuk terus belajar dan berkembang!
