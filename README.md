@@ -45,7 +45,7 @@ This project is part of the HTML Foundations curriculum from [The Odin Project](
   Crafting clear, consistent, and meaningful commit messages following best practices:  
   🔗 [The seven rules of a great commit message](https://cbea.ms/git-commit/)
 
-### 🧠 Lessons Learned
+###  Lessons Learned
 
 - 🔍 Organizing project directory structure neatly and systematically.
 - 📎 Understanding the difference between relative and absolute links and their usage.
@@ -53,32 +53,35 @@ This project is part of the HTML Foundations curriculum from [The Odin Project](
 - 🧑‍🦯 Using `alt` attributes in `<img>` tags for accessibility.
 - 📌 Significance of documentation and version control.
 
-### 🛠️ Tools Used
+###  Tools Used
 
 - Visual Studio Code (Text Editor)
 - Git (Version Control)
 - GitHub (Remote Repository)
 - Terminal / Bash (Command Line Interface)
 
-### 📌 Personal Notes
+###  Personal Notes
 
 This is the initial step in my journey to become a Web Developer. I will continue to develop this project as I progress through The Odin Project curriculum, including adding CSS and JavaScript in the future.  
 This documentation is also part of my learning process to think and work like a professional developer.
 
-### 🔗 Repository
+###  Repository
 
 🔗 [GitHub Repository Link](https://github.com/bRezha/The-odin-project/tree/main/html-basic/html-project/odin-recipes)
+- [Project Live](https://brezha.github.io/The-odin-project/index.html)
 
-### ✨ Acknowledgments
+### Acknowledgments
 
 Thanks to The Odin Project team for their outstanding open-source curriculum.  
 I'm excited to keep learning and growing!
 
 ---
 
-# Proyek Halaman Resep HTML
+
 
 🌐 🇬🇧[Versi Bahasa Inggris](#html-recipe-page-project) | 🇮🇩 [Bahasa Indonesia](#proyek-halaman-resep-html)
+
+# Proyek Halaman Resep HTML
 
 ## 📚 Daftar Isi
 
@@ -93,7 +96,7 @@ I'm excited to keep learning and growing!
 
 Proyek ini adalah bagian dari kurikulum HTML Foundations dari The Odin Project. Tujuannya adalah untuk mengimplementasikan pengetahuan dasar HTML dengan membuat halaman resep sederhana.
 
-### 📚 Konsep yang Diimplementasikan
+###  Konsep yang Diimplementasikan
 
 - ✅ **Text Editors**  
   Menggunakan Visual Studio Code sebagai editor teks utama.
@@ -123,7 +126,7 @@ Proyek ini adalah bagian dari kurikulum HTML Foundations dari The Odin Project. 
   Membuat pesan commit yang jelas, konsisten, dan bermakna dengan mengikuti praktik terbaik:  
   🔗 [Tujuh aturan menulis pesan commit yang baik](https://cbea.ms/git-commit/)
 
-### 🧠 Pelajaran yang Didapat
+###  Pelajaran yang Didapat
 
 - 🔍 Menyusun struktur direktori proyek secara rapi dan sistematis.
 - 📎 Memahami perbedaan antara tautan relatif dan absolut.
@@ -131,21 +134,23 @@ Proyek ini adalah bagian dari kurikulum HTML Foundations dari The Odin Project. 
 - 🧑‍🦯 Menggunakan atribut `alt` pada tag `<img>` untuk aksesibilitas.
 - 📌 Pentingnya dokumentasi dan kontrol versi.
 
-### 🛠️ Alat yang Digunakan
+### 🛠 Alat yang Digunakan
 
 - Visual Studio Code (Editor Teks)
 - Git (Kontrol Versi)
 - GitHub (Repositori Jarak Jauh)
 - Terminal / Bash (Antarmuka Baris Perintah)
 
-### 📌 Catatan Pribadi
+### Catatan Pribadi
 
 Ini adalah langkah awal dalam perjalanan saya untuk menjadi Web Developer. Saya akan terus mengembangkan proyek ini seiring kemajuan dalam kurikulum The Odin Project, termasuk menambahkan CSS dan JavaScript.  
 Dokumentasi ini juga merupakan bagian dari proses belajar saya untuk berpikir dan bekerja seperti seorang developer profesional.
 
-### 🔗 Repositori
+###  Repositori
 
 🔗 [Tautan Repositori GitHub](https://github.com/bRezha/The-odin-project/tree/main/html-basic/html-project/odin-recipes)
+-[Project Live](https://brezha.github.io/The-odin-project/index.html)
+
 
 ### ✨ Ucapan Terima Kasih
 
