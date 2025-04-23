@@ -15,7 +15,7 @@
 
 This project is part of the HTML Foundations curriculum from [The Odin Project](https://www.theodinproject.com/). The goal is to implement basic HTML knowledge by building a simple recipe page.
 
-### 📚 Implemented Concepts
+###  Implemented Concepts
 
 - ✅ **Text Editors**  
   Utilizing Visual Studio Code as the primary text editor.
