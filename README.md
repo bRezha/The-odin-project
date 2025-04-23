@@ -149,10 +149,11 @@ Dokumentasi ini juga merupakan bagian dari proses belajar saya untuk berpikir da
 ###  Repositori
 
 🔗 [Tautan Repositori GitHub](https://github.com/bRezha/The-odin-project/tree/main/html-basic/html-project/odin-recipes)
+
 -[Project Live](https://brezha.github.io/The-odin-project/index.html)
 
 
-### ✨ Ucapan Terima Kasih
+###  Ucapan Terima Kasih
 
 Terima kasih kepada tim The Odin Project atas kurikulum open-source yang luar biasa.  
 Saya sangat antusias untuk terus belajar dan berkembang!
