@@ -33,8 +33,8 @@ The-odin-project/
 
 ## Learning Progress
 
-- [x] HTML Basic – currently learning and building
-- [ ] CSS Basic – not started yet
+- [x] HTML Basic – finish and build project [live](https://brezha.github.io/The-odin-project/index.html) done
+- [x] CSS Basic – currently learning and building
 - [ ] JavaScript Basic – not started yet
 
 Currently working on the **HTML Recipe Project**.
@@ -100,8 +100,8 @@ The-odin-project/
 
 ## Status Pembelajaran
 
-- [x] HTML Basic – sedang dipelajari dan diterapkan
-- [ ] CSS Basic – belum dimulai
+- [x] HTML Basic – selesai mempelajari dasar dan membangun proyek serta  [Meluncurkanya](https://brezha.github.io/The-odin-project/index.html) 
+- [x] CSS Basic – sedang di pelajari dan proses membangun proyek
 - [ ] JavaScript Basic – belum dimulai
 
 📍 Saat ini saya sedang mengerjakan **Project Resep HTML Dasar**.
