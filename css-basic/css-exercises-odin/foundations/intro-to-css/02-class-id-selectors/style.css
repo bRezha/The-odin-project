@@ -1,0 +1,22 @@
+/* line 1 */
+.odd {
+  background-color: lightpink;
+  font-family: verdana, "Dejavu Sans" sans-serif;
+}
+
+/* line 3 */
+.odd-large-text {
+  font-size: 24px;
+}
+
+/*line 2*/
+#blue {
+  color: rgb(0, 0, 255);
+  font-size: 36px;
+}
+
+/* line 4 */
+#green {
+  background-color: lightgreen;
+  font-weight: bold;
+}
