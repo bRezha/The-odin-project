@@ -1,0 +1,16 @@
+.black,
+.yellow {
+  /* Both elements: a font size of 28px and a list of fonts 
+  containing Helvetica and Times New Roman, with sans-serif as a fallback */
+  font-family: Helvetica, "Times New Roman", sans-serif;
+  font-size: 28px;
+}
+
+.black {
+  background-color: black;
+  color: white;
+}
+
+.yellow {
+  background-color: yellow;
+}
