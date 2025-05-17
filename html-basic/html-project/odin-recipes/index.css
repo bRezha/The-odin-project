@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(131, 227, 194);
+}
+h1 {
+  margin: 30px 100px;
+  border: solid black 5px;
+  border-radius: 15px;
+  background-color: coral;
+  text-align: center;
+  padding: 10px 20px;
+}
+a {
+  text-decoration: none;
+}
+.all-recipes {
+  margin-left: 100px;
+  padding: 20px;
+  border: solid black 3px;
+  border-radius: 15px;
+  width: 400px;
+  background-color: whitesmoke;
+}
