@@ -13,12 +13,20 @@ h1 {
 }
 
 a {
+  display: inline-block;
   color: black;
   font-weight: bold;
+  background-color: orange;
+  padding: 2.5px 5px;
+  border: solid black;
+  border-radius: 10px;
 }
 a:hover {
+  display: inline-block;
   text-decoration-style: wavy;
   color: blueviolet;
+  background-color: whitesmoke;
+  padding: 3px 4px;
 }
 .all-recipes {
   margin-left: 100px;
