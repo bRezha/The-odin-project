@@ -1,0 +1,102 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(131, 227, 194);
+  margin: 0;
+}
+
+.container {
+  box-sizing: border-box;
+  background-color: rgb(220, 143, 143);
+  margin: 2em auto;
+  padding: 2em 4em;
+  border-radius: 30px;
+  border: solid black;
+  width: 90%;
+  max-width: 960px;
+}
+
+a.button,
+a.back {
+  display: inline-block;
+  background-color: orange;
+  padding: 0.3em 0.7em;
+  border: solid black;
+  border-radius: 10px;
+  color: black;
+  font-weight: bold;
+  font-size: 1em;
+  width: fit-content;
+  text-align: center;
+  text-decoration: none;
+}
+a.button:hover,
+a.back:hover {
+  background-color: whitesmoke;
+  text-decoration: none;
+  color: blueviolet;
+}
+
+h2,
+h3,
+p,
+ul,
+ol,
+li {
+  text-align: left;
+  max-width: 100%;
+  margin: auto;
+}
+
+img {
+  width: 650px;
+  max-width: 100%;
+  border-radius: 15px;
+  height: auto;
+  display: block;
+  margin: 1.5em auto;
+}
+
+p {
+  margin-bottom: 1px;
+  line-height: 1.6;
+}
+
+ul li {
+  max-width: 100%;
+  line-height: 1.6;
+}
+
+h1 {
+  font-size: 2.5em;
+  max-width: 100%;
+  font-weight: bold;
+  text-shadow: 2px 2px 0px #000000;
+  text-align: center;
+  color: rgb(118, 51, 3);
+}
+p:has(a.button) {
+  text-align: left;
+}
+h2 {
+  font-size: 1.5em;
+  text-align: left;
+  line-height: 1.6;
+}
+h3 {
+  font-size: 1.7em;
+  text-align: left;
+  margin-bottom: 10px;
+}
+
+h1,
+h2,
+h3 {
+  max-width: 100%;
+}
+p,
+ul,
+ol,
+li {
+  text-align: left;
+  line-height: 1, 6;
+}
